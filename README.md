@@ -419,12 +419,7 @@ For questions or support, please reach out:
 
 ## 🙏 Acknowledgments
 
-- Thanks to all our talented team members who contributed to this project:
-  - **Yash Arya** - Project Lead & Full Stack Development
-  - **Aman Verma** - Frontend Development
-  - **Sumit Jaiswal** - Backend Development
-  - **Vinod Bavistale** - Full Stack Development
-  - **Pratham Soni** - Frontend Development
+- Thanks to all our talented team members who contributed to this project
 
 - Special thanks to the open-source communities:
   - React.js team
