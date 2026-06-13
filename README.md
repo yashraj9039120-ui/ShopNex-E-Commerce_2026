@@ -1,25 +1,42 @@
-# Neuromart E-Commerce 🛒
+# NeuroMart E-Commerce 🧠🛒
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0ED9F7&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+ShopNex;Modern+E-Commerce+Platform;MERN+Stack+Powered" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0ED9F7&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+NeuroMart;Modern+E-Commerce+Platform;MERN+Stack+Powered" alt="Typing SVG" />
 </p>
 
-A modern, full-featured e-commerce platform built with the MERN stack (MongoDB, Express.js, React.js, Node.js). ShopNex provides a seamless shopping experience with intuitive product browsing, secure checkout, and comprehensive order management.
+A modern, intelligent e-commerce platform built with the MERN stack (MongoDB, Express.js, React.js, Node.js). NeuroMart provides a seamless shopping experience with intuitive product browsing, secure checkout, and comprehensive order management powered by smart technology.
+
+---
+
+## 👥 Team Members
+
+Meet the talented team behind NeuroMart E-Commerce:
+
+| Name | Role | GitHub |
+|------|------|--------|
+| 👨‍💼 **Yash Arya** | Project Lead & Full Stack Developer | [@yashraj9039120-ui](https://github.com/yashraj9039120-ui) |
+| 👨‍💻 **Aman Verma** | Frontend Developer | [GitHub Profile](#) |
+| 👨‍💻 **Sumit Jaiswal** | Backend Developer | [GitHub Profile](#) |
+| 👨‍💻 **Vinod Bavistale** | Full Stack Developer | [GitHub Profile](#) |
+| 👨‍💻 **Pratham Soni** | Frontend Developer | [GitHub Profile](#) |
+
+> 🎯 **Our Mission**: Building an intelligent, scalable e-commerce platform that delivers exceptional shopping experiences with cutting-edge technology.
 
 ---
 
 ## ✨ Features
 
 - 🔐 **User Authentication** - JWT-based secure authentication with bcrypt password hashing
-- 🛍️ **Product Management** - Browse, search, filter, and categorize products
+- 🛍️ **Product Management** - Browse, search, filter, and categorize products intelligently
 - 🛒 **Shopping Cart** - Add, remove, and manage items with persistence
 - ❤️ **Wishlist** - Save favorite products for later
 - 💳 **Payments Integration** - Secure payment processing with Stripe/Razorpay
-- 📦 **Order Management** - Track and manage orders with status updates
-- 👑 **Admin Dashboard** - Add, edit, and delete products (Admin-only)
-- 📱 **Responsive Design** - Optimized for desktop, tablet, and mobile
+- 📦 **Order Management** - Track and manage orders with real-time status updates
+- 👑 **Admin Dashboard** - Comprehensive admin panel for product management
+- 📱 **Responsive Design** - Optimized for desktop, tablet, and mobile devices
 - ⭐ **Product Reviews** - Share and read customer feedback
-- 🔍 **Advanced Search & Filter** - Find products with ease
+- 🔍 **Advanced Search & Filter** - Find products with intelligent recommendations
+- 🧠 **Smart Recommendations** - AI-powered product suggestions
 
 ---
 
@@ -66,8 +83,8 @@ Before you begin, ensure you have the following installed:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yashraj9039120-ui/ShopNex-E-Commerce_2026.git
-cd ShopNex-E-Commerce_2026
+git clone https://github.com/yashraj9039120-ui/NeuroMart.git
+cd NeuroMart
 ```
 
 ### Step 2: Install Dependencies
@@ -93,8 +110,8 @@ PORT=5000
 NODE_ENV=development
 
 # Database
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/shopnex
-MONGO_DB_NAME=shopnex
+MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/neuromart
+MONGO_DB_NAME=neuromart
 
 # JWT Authentication
 JWT_SECRET=your_super_secret_jwt_key_here_min_32_chars
@@ -146,7 +163,7 @@ Frontend will run on: **http://localhost:3000**
 ## 📁 Project Structure
 
 ```
-ShopNex-E-Commerce_2026/
+NeuroMart/
 │
 ├── client/                          # Frontend (React)
 │   ├── public/
@@ -187,6 +204,7 @@ ShopNex-E-Commerce_2026/
 - **Protected Routes**: Only authenticated users can access certain endpoints
 - **CORS**: Cross-Origin Resource Sharing configured for security
 - **Environment Variables**: Sensitive data stored in `.env` files
+- **Input Validation**: All inputs validated on both frontend and backend
 
 ---
 
@@ -216,6 +234,7 @@ http://localhost:5000/api
 | PUT | `/products/:id` | Update product | Admin |
 | DELETE | `/products/:id` | Delete product | Admin |
 | GET | `/products/category/:category` | Get products by category | No |
+| GET | `/products/recommendations` | Get recommended products | No |
 
 ### Cart Endpoints
 
@@ -309,7 +328,7 @@ git push heroku main
 
 ## 🤝 Contributing
 
-We welcome contributions! Please follow these steps:
+We welcome contributions from our team and the community! Please follow these steps:
 
 1. **Fork** the repository 🍴
 2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
@@ -322,6 +341,7 @@ We welcome contributions! Please follow these steps:
 - Write meaningful commit messages
 - Add tests for new features
 - Update documentation as needed
+- Coordinate with team members for major changes
 
 ---
 
@@ -391,14 +411,21 @@ PORT=5001 npm start
 
 For questions or support, please reach out:
 
-- **GitHub Issues**: [Report a bug](https://github.com/yashraj9039120-ui/ShopNex-E-Commerce_2026/issues)
-- **GitHub Discussions**: [Start a discussion](https://github.com/yashraj9039120-ui/ShopNex-E-Commerce_2026/discussions)
+- **GitHub Issues**: [Report a bug](https://github.com/yashraj9039120-ui/NeuroMart/issues)
+- **GitHub Discussions**: [Start a discussion](https://github.com/yashraj9039120-ui/NeuroMart/discussions)
+- **Project Lead**: Yash Arya [@yashraj9039120-ui](https://github.com/yashraj9039120-ui)
 
 ---
 
 ## 🙏 Acknowledgments
 
-- Thanks to all contributors who have helped with this project
+- Thanks to all our talented team members who contributed to this project:
+  - **Yash Arya** - Project Lead & Full Stack Development
+  - **Aman Verma** - Frontend Development
+  - **Sumit Jaiswal** - Backend Development
+  - **Vinod Bavistale** - Full Stack Development
+  - **Pratham Soni** - Frontend Development
+
 - Special thanks to the open-source communities:
   - React.js team
   - Node.js & Express.js team
@@ -408,11 +435,11 @@ For questions or support, please reach out:
 ---
 
 <p align="center">
-  <strong>Happy Shopping! 🛍️</strong>
+  <strong>Happy Shopping with NeuroMart! 🛍️🧠</strong>
   <br>
-  Made with ❤️ by the ShopNex Team
+  Made with ❤️ by the NeuroMart Team
   <br>
-  <a href="https://github.com/yashraj9039120-ui/ShopNex-E-Commerce_2026">⭐ Star this repo if you found it helpful!</a>
+  <a href="https://github.com/yashraj9039120-ui/NeuroMart">⭐ Star this repo if you found it helpful!</a>
 </p>
 
 ---
@@ -420,3 +447,5 @@ For questions or support, please reach out:
 **Last Updated**: June 2026
 **Version**: 1.0.0
 **Status**: 🟢 Active Development
+**Team Size**: 5 Developers
+**Project Type**: Full Stack E-Commerce Platform
