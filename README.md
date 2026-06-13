@@ -1,4 +1,4 @@
-# ShopNex E-Commerce 🛒
+# Neuromart E-Commerce 🛒
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0ED9F7&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+ShopNex;Modern+E-Commerce+Platform;MERN+Stack+Powered" alt="Typing SVG" />
