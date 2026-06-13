@@ -12,13 +12,13 @@ A modern, intelligent e-commerce platform built with the MERN stack (MongoDB, Ex
 
 Meet the talented team behind NeuroMart E-Commerce:
 
-| Name | Role | GitHub |
-|------|------|--------|
-| 👨‍💼 **Yash Arya** | Project Lead & Full Stack Developer | [@yashraj9039120-ui](https://github.com/yashraj9039120-ui) |
-| 👨‍💻 **Aman Verma** | Frontend Developer | [GitHub Profile](#) |
-| 👨‍💻 **Sumit Jaiswal** | Backend Developer | [GitHub Profile](#) |
-| 👨‍💻 **Vinod Bavistale** | Full Stack Developer | [GitHub Profile](#) |
-| 👨‍💻 **Pratham Soni** | Frontend Developer | [GitHub Profile](#) |
+| Name |
+|------|
+| 👨‍💼 **Yash Arya**| [@yashraj9039120-ui](https://github.com/yashraj9039120-ui) |
+| 👨‍💻 **Aman Verma** 
+| 👨‍💻 **Sumit Jaiswal**
+| 👨‍💻 **Vinod Bavistale** 
+| 👨‍💻 **Pratham Soni** 
 
 > 🎯 **Our Mission**: Building an intelligent, scalable e-commerce platform that delivers exceptional shopping experiences with cutting-edge technology.
 
